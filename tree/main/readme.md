@@ -35,10 +35,12 @@ Define working folder
 $path="C:\tmp\backup\"
 
 This function runs the backup operations and stores all files in a subfolder AABackup_YYYYMMDD (YYYYMMDD reflects the current date in Year, Month, Date format)
+
 BackupAAConfig -Path "C:\tmp\backup\"
 
 This function restores the Auto Attendants.
 Please make sure you are loggin in to the right tenant for restore operation.
+
 RestoreAAConfig -Path "C:\tmp\backup\AABackup_20230827\"
 
 ## Known Issues or future work items
