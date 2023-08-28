@@ -57,8 +57,3 @@ Mario Moeller
 
 * 1
     * First release
-
-## Acknowledgments
-
-Inspiration, code snippets, etc.
-* [Send Email on School Data Sync Errors](https://emea.flow.microsoft.com/en-us/galleries/public/templates/ffec9fa3101e4a8281a2b2f7425ef0f1/send-email-on-school-data-sync-errors/)
